@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robo-Friends/static/css/main.b82cdd88.css",
+    "main.js": "/Robo-Friends/static/js/main.8861bfd7.js",
+    "static/js/787.ebaa048f.chunk.js": "/Robo-Friends/static/js/787.ebaa048f.chunk.js",
+    "static/media/MusimSemiSegar-BWrm8.woff": "/Robo-Friends/static/media/MusimSemiSegar-BWrm8.cf3b9560581459511cf3.woff",
+    "index.html": "/Robo-Friends/index.html",
+    "main.b82cdd88.css.map": "/Robo-Friends/static/css/main.b82cdd88.css.map",
+    "main.8861bfd7.js.map": "/Robo-Friends/static/js/main.8861bfd7.js.map",
+    "787.ebaa048f.chunk.js.map": "/Robo-Friends/static/js/787.ebaa048f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82cdd88.css",
+    "static/js/main.8861bfd7.js"
+  ]
+}
